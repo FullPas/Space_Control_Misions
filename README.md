@@ -18,7 +18,7 @@ El proyecto está construido con Python, Flask, React, SQL, JWT, Docker y un sis
 
 ## 🧠 Características principales
 
-### 🔸 IA operativa (no solo informativa)
+### 🔸 IA operativa
 La IA puede:
 * Crear misiones completas a partir de parámetros del usuario.
 * Optimizar combustible, recursos y rutas.
@@ -28,7 +28,7 @@ La IA puede:
 * Generar informes técnicos en tiempo real.
 * Actuar como copiloto en el panel de misión.
 
-### 🔸 Panel de control estilo NASA
+### 🔸 Panel de control.
 * Dashboard con telemetría, gráficos orbitales y estado global.
 * Animaciones fluidas y diseño curvado inspirado en estética espacial.
 * Paletas de color dinámicas según sección (misiones, IA, recursos, etc.).
@@ -119,7 +119,7 @@ Mission-Control-AI/
 ### IA
 * Sistema de agentes
 * Skills especializadas (riesgo, ruta, simulación, informes)
-* MCPs para APIs externas (NASA, SpaceX, etc.)
+* MCPs para APIs externas (NASA, ESA, Roscosmos, JAXA, CNSA, SpaceX, etc.)
 
 ### Infraestructura
 * Docker
